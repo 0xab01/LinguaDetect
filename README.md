@@ -30,7 +30,7 @@ Open your web browser and visit http://localhost:5000.
 
 Enter the website URL in the input field and click "Detect Language" to get the result.
 
-#Technologies Used
+## Technologies Used
 Python
 Flask
 HTML
