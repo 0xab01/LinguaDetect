@@ -41,7 +41,7 @@ This project is licensed under the MIT License.
 Contributing
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
-##Contact
+## Contact
 For any questions or inquiries, please contact azanulrock@gmail.com.
 
 
