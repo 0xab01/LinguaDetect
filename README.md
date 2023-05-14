@@ -14,7 +14,7 @@ LinguaDetect is a language detection tool that helps you identify the language u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/linguadetect.git
+   git clone https://github.com/Azanul-Rana/linguadetect.git
 Navigate to the project directory:
 
 
